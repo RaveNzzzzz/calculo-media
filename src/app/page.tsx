@@ -62,7 +62,7 @@ export default function Home() {
       )}
 
       <div>
-        <p>Nomes: Mauricio Zeli Flint, Pedro Marcos Gaudêncio, Jhonattan, Rafael Vinicius Baratta, Murilo Jaoudat da Silva Teixeira</p>
+        <p>Nomes: Mauricio Zeli Flint, Pedro Marcos Gaudêncio, Jhonattan Henrique Vianna, Rafael Vinicius Baratta, Murilo Jaoudat da Silva Teixeira</p>
       </div>
     </div>
   );
